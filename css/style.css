@@ -1,0 +1,177 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+
+}
+
+.programmer{
+    margin-top: 0;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+.top-container{
+  background-color: #EAFDFC;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+
+  background-color: #F8F4EA;
+
+
+}
+
+.bottom-container{
+
+
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 350px;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+.skills-img{
+  height: 250px;
+  width: 250px;
+  align-items: center;
+  float: left;
+  margin-right: 50px;
+
+
+
+}
+.football-img{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 50px;
+}
+
+.profile-img{
+  height: 250px;
+  width: 250px;
+  align-items: center;
+  margin: 100px auto auto auto;
+
+}
+
+
+
+h2{
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+h3{
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.5rem;
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+
+.skill-row{
+   width: 50%;
+   margin: auto;
+   margin: 100px auto 150px auto;
+   text-align: left;
+   line-height: 2;
+   font-family: 'Roboto Slab', serif;
+   font-weight: bold;
+
+
+
+}
+.foot-row{
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+
+}
+.myself{
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+}
+hr{
+  margin: 100px auto 100px auto;
+   border-top-style: dotted;
+
+   border-left: 0;
+   border-bottom: 0;
+   border-right: 0;
+   border-color: grey;
+   border-width: 7px;
+   width: 50px;
+
+}
+
+.connect{
+  font-size: 30px;
+
+}
+.button{
+  margin: 70px auto 100px auto;
+  background-color: #F8F4EA;
+
+}
+.btn {
+  font-family: 'arial black';
+  color: #FFFFFF;
+  font-size: 14px;
+  text-shadow: 1px 1px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #11CDD4;
+  background: linear-gradient(to top, #11CDD4, #11999E);
+}
+.btn:hover {
+  color: #14396A ;
+  background: #30E3CB;
+  background: linear-gradient(to top, #30E3CB, #2bc4ab);
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+color: #EAF6F6;
+}
+
+.copyright{
+  color: #EAF6F6;
+font-size: 14px;
+padding: 20px 0;
+
+}
